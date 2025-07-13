@@ -29,7 +29,7 @@ export default function Cart() {
                                                 </div>
                                             </div></td>
                                         <td className="col-sm-1 col-md-1" style={{ textAlign: 'center' }}>
-                                            <input type="email" className="form-control" id="exampleInputEmail1" defaultValue={0} />
+                                            <input type="email" className="form-control" id="exampleInputEmail1" defaultValue={1} />
                                         </td>
                                         <td className="col-sm-1 col-md-1 text-center"><strong>${a.price}</strong></td>
                                         <td className="col-sm-1 col-md-1">
